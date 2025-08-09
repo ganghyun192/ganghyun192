@@ -12,4 +12,4 @@
 #### BOJ solved.ac Rank
 
 ![DetegiCE's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=ganghyun)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DetegiCE&layout=compact&langs_count=10)](https://github.com/gang)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DetegiCE&layout=compact&langs_count=10)](https://github.com/ganghyun)
